@@ -1,0 +1,7 @@
+common\DAO\UserDAO.class
+common\config\WebAppConfig.class
+common\DAO\UserDAOHibernateImpl.class
+common\model\User.class
+common\config\DBConfig.class
+common\controller\HelloController.class
+common\config\Initializer.class
